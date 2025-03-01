@@ -1,4 +1,4 @@
-Chips2connect Pvt. Ltd. (hereinafter referred to as "Chips") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share your personal information when you use our online app, Chips.
+Chips2connect Pvt. Ltd. (hereinafter referred to as "Channels") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share your personal information when you use our online app, Channels.
 
 ## What information do we collect?
 We collect the following types of information from you:
