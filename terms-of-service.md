@@ -1,7 +1,7 @@
-Terms of Service for Chips.social App by Chips2Connect Pvt Ltd, effective date: 2023-10-19
+Terms of Service for Channels.social App by Chips2Connect Pvt Ltd, effective date: 2023-10-19
 
 ## 1. Acceptance of Terms
-By accessing or using the Chips app (the "App"), you agree to be bound by these Terms of Service (the "Terms"). If you do not agree to these Terms, you may not access or use the App.
+By accessing or using the Channels app (the "App"), you agree to be bound by these Terms of Service (the "Terms"). If you do not agree to these Terms, you may not access or use the App.
 
 ## 2. License to Use
 Chips2Connect Pvt Ltd (the "Company") grants you a non-exclusive, personal, non-transferable license to access and use the App for your own personal, non-commercial purposes. You may not use the App for any commercial purpose without the express written consent of the Company.
