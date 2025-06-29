@@ -5,7 +5,7 @@ Chips2connect Pvt. Ltd. (“we”, “our”, or “us”) operates the applicat
 
 
 ## 1. Information We Collect
-**Personal Information:** Such as your name, email address, and phone number, only when you voluntarily provide it (e.g., through login or support).
+**Personal Information:** Such as your name, email address, and phone number — only when voluntarily provided (e.g., during signup or login). We use your phone number solely to send service-related updates, including WhatsApp notifications.
 **Usage Data:** Information about your interactions with the platform such as features used, time spent, and pages viewed.
 **Device Information:** Device type, operating system, browser, and anonymized technical identifiers.
 > We do **not** collect sensitive personal information (e.g., financial, health, or biometric data).
@@ -16,7 +16,8 @@ We use your information to:
 - Operate and improve the Channels platform  
 - Communicate service updates and respond to inquiries  
 - Provide user support  
-- Ensure the safety and security of our services  
+- Send service notifications via email or WhatsApp  
+- Ensure the safety and security of our services 
 
 > 🔒 **We do not serve third-party advertisements or sell your data.**
 
